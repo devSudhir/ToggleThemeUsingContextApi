@@ -1,2 +1,2 @@
-# ToggleThemeUsingContextApi
+# ThemeToggle
 Created with CodeSandbox
