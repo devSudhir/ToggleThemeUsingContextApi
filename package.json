@@ -8,13 +8,6 @@
   ],
   "main": "src/index.js",
   "dependencies": {
-    "@iconify-icons/akar-icons": "1.1.17",
-    "@iconify-icons/ant-design": "1.1.0",
-    "@iconify-icons/bx": "1.1.1",
-    "@iconify-icons/mdi": "1.1.16",
-    "@iconify-icons/vaadin": "1.1.0",
-    "@iconify-icons/whh": "1.1.0",
-    "@iconify/react": "1.1.4",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-scripts": "4.0.0",
